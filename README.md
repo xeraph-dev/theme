@@ -1,4 +1,4 @@
-# Theme for my desktop
+# My favorite theme in various configurations
 
 
 ## One Dark
