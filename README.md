@@ -1,4 +1,5 @@
-# Theme
+# Theme for my desktop
+
 
 ## One Dark
 
@@ -6,3 +7,5 @@
 - [scss](./css/theme.scss)
 - [termonad](./termonad/Theme.hs)
 - [alacritty](./alacritty/theme.yaml)
+
+![theme](./theme.png)
