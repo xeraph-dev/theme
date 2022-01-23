@@ -18,5 +18,8 @@
 #### Web Framework | Library
 - [react](https://github.com/adrianrl99/theme-react)
 
+#### Extras
+- [polybar](./polybar/theme.ini)
+
 #### Color palette
 ![theme](./theme.png)
